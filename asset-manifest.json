@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChristianSB89/react-counter/static/css/main.133ca7a1.css",
-    "main.js": "/ChristianSB89/react-counter/static/js/main.240e2f5b.js",
-    "static/js/787.d6bd616b.chunk.js": "/ChristianSB89/react-counter/static/js/787.d6bd616b.chunk.js",
-    "index.html": "/ChristianSB89/react-counter/index.html",
-    "main.133ca7a1.css.map": "/ChristianSB89/react-counter/static/css/main.133ca7a1.css.map",
-    "main.240e2f5b.js.map": "/ChristianSB89/react-counter/static/js/main.240e2f5b.js.map",
-    "787.d6bd616b.chunk.js.map": "/ChristianSB89/react-counter/static/js/787.d6bd616b.chunk.js.map"
+    "main.css": "/react-counter/static/css/main.133ca7a1.css",
+    "main.js": "/react-counter/static/js/main.be525152.js",
+    "static/js/787.d6bd616b.chunk.js": "/react-counter/static/js/787.d6bd616b.chunk.js",
+    "index.html": "/react-counter/index.html",
+    "main.133ca7a1.css.map": "/react-counter/static/css/main.133ca7a1.css.map",
+    "main.be525152.js.map": "/react-counter/static/js/main.be525152.js.map",
+    "787.d6bd616b.chunk.js.map": "/react-counter/static/js/787.d6bd616b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.133ca7a1.css",
-    "static/js/main.240e2f5b.js"
+    "static/js/main.be525152.js"
   ]
 }
